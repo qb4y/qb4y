@@ -1,6 +1,18 @@
-# 💫 About Me:
-🐧 Linux summoner | 🖥️ Neovim black belt | 🚀 Full-Stack alchemist | ☁ Cloud sorcerer<br><br>🔧 Currently crafting: Modular architectures, serverless spells & APIs that don’t break (much).<br>🛠 Debugging: Schrödinger’s bugs.<br>🧠 Grinding XP in: Tailwind, Django, and the dark arts of Kubernetes.<br><br>⚡ Fun fact: My commit messages are just cryptic patch notes for future archeologists.<br><br>🔥 “It’s not a bug, it’s an undocumented feature.” 🚀
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
+<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+ <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RXZp2AmM2w) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sr.qbay) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/QB4y) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/srqbay) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SrQBaycito) 
